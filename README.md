@@ -9,7 +9,7 @@ In the Pig Game, the primary goal is to reach **100** points before your opponen
 - Roll the die: Click the "Roll Dice" button to roll the die and accumulate points.<br>
 - Hold your score: Click the "Hold" button to end your turn and add your current points to your total score.<br>
 - Win the game: The first player to reach the score threshold (usually 100 points) wins the game.<br>
-<br>
+
 **Technologies Used**<br>
 - HTML<br>
 - CSS<br>
