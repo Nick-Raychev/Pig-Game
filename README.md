@@ -20,3 +20,6 @@ In the Pig Game, the primary goal is to reach **100** points before your opponen
 2. Copy code: git clone https://github.com/Nick-Raychev/pig-game.git<br>
 3. Open index.html in your web browser.<br>
 4. Follow the on-screen instructions to play the game.<br>
+
+🤝Contribution<br>
+Contributions to the Pig-Game project are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to open an issue or submit a pull request.
