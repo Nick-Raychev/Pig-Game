@@ -14,7 +14,8 @@ In the Pig Game, the primary goal is to reach **100** points before your opponen
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
-**How to Use**
+
+**How to Use**<br>
 1. Clone the repository:<br>
 2. Copy code: git clone https://github.com/your-username/pig-game.git<br>
 3. Open index.html in your web browser.<br>
