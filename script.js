@@ -114,30 +114,3 @@ btnHold.addEventListener('click', function () {
 
 // Reset Button
 btnNew.addEventListener('click', init);
-
-//   // 1.Set all scored to 0
-//   //   scores[0] = 0;
-//   //   document.getElementById(`score--${0}`).textContent = scores[0];
-//   //   scores[1] = 0;
-//   //   document.getElementById(`score--${1}`).textContent = scores[1];
-//   scores = [0, 0];
-//   score0El.textContent = 0;
-//   score1El.textContent = 0;
-
-//   currentScore = 0;
-//   current0El.textContent = 0;
-//   current1El.textContent = 0;
-
-//   // 2.Set the game to playing mode
-//   if (playing === false) {
-//     playing = true;
-//     document
-//       .querySelector(`.player--${activePlayer}`)
-//       .classList.remove('player--winner');
-//     document
-//       .querySelector(`.player--${activePlayer}`)
-//       .classList.add('player--active');
-//   }
-
-//   // 3.Set player 1 as starting player
-//   if (activePlayer !== 0) switchPlayer();
